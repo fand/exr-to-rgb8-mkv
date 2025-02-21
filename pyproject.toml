@@ -1,0 +1,7 @@
+[project]
+name = "exr-to-rgba8-mkv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = ["imath>=0.0.2", "numpy>=1.24.4", "openexr>=3.3.2"]
