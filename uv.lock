@@ -8,7 +8,7 @@ resolution-markers = [
 ]
 
 [[package]]
-name = "exr-to-rgba8"
+name = "exr-to-rgba8-mkv"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
